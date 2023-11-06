@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\LabWork_15_2\LabWork_15_2\Source.cpp(238,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\LabWork_15_2\LabWork_15_2\Source.cpp(245,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\LabWork_15_2\LabWork_15_2\Source.cpp(247,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\LabWork_15_2\LabWork_15_2\Source.cpp(275,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\LabWork_15_2\LabWork_15_2\Source.cpp(306,20): warning C4018: <: несоответствие типов со знаком и без знака
+  LabWork_15_2.vcxproj -> D:\LabWork_15_2\Debug\LabWork_15_2.exe
